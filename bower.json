@@ -1,0 +1,6 @@
+{
+  "name": "cart-checkout",
+  "dependencies": {
+    "semantic-ui": "^2.2.13"
+  }
+}
